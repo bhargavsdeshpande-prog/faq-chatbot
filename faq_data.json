@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI (Artificial Intelligence) is a technology that enables machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What does AI stand for?",
+    "answer": "AI stands for Artificial Intelligence."
+  },
+  {
+    "question": "Give one example of AI.",
+    "answer": "ChatGPT, Siri, Alexa, and Google Assistant are examples of AI."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a branch of AI that allows computers to learn from data and improve without being explicitly programmed."
+  },
+  {
+    "question": "Where is AI used?",
+    "answer": "AI is used in healthcare, education, banking, transportation, and entertainment."
+  },
+  {
+    "question": "Can AI make decisions?",
+    "answer": "Yes, AI can make decisions based on the data and rules it has been trained on."
+  },
+  {
+    "question": "Is AI the same as a human brain?",
+    "answer": "No, AI can mimic some human intelligence but cannot think or feel like humans."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is an AI program that can communicate with users through text or voice."
+  },
+  {
+    "question": "What are the benefits of AI?",
+    "answer": "AI helps automate tasks, improves efficiency, saves time, and assists in decision-making."
+  }
+]
