@@ -37,6 +37,9 @@ Try asking:
 4. Can AI learn from data?
 5.What is Machine Learning?
 6.Where is AI used?
+
+
+
 7.Can AI make decisions?
 8.Is AI the same as a human brain?
 9.What is a chatbot?
